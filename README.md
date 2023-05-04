@@ -16,12 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=damlaalim&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hey There
+  Hii, I'm Damla!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Game Developer <img src="https://media1.giphy.com/media/nYD66ng26rP1WMmXwx/giphy.gif?cid=ecf05e47dw1pjosndhwqkhdqbfw4g6y68q8c1zld090avtk1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30"> from Turkey.
+
+I am a 20-year-old Game Developer from Turkey. <br>
+I love coding and playing games! <img src="https://media1.giphy.com/media/nYD66ng26rP1WMmXwx/giphy.gif?cid=ecf05e47dw1pjosndhwqkhdqbfw4g6y68q8c1zld090avtk1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30"> 
 
 <h1 align="center"></h1>
 
