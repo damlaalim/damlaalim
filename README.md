@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/damlaalim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://medium.com/@damlaalim" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://damlaalim.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchio&logoColor=white" alt="Itchio Badge"/>
   </a>
 </div>
 <div align="center">
@@ -22,6 +22,8 @@
 
 ### :woman_technologist: About Me :
 I am a Game Developer <img src="https://media1.giphy.com/media/nYD66ng26rP1WMmXwx/giphy.gif?cid=ecf05e47dw1pjosndhwqkhdqbfw4g6y68q8c1zld090avtk1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30"> from Turkey.
+
+<h1 align="center"></h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -36,9 +38,7 @@ I am a Game Developer <img src="https://media1.giphy.com/media/nYD66ng26rP1WMmXw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
-<br>
+<h1 align="center"></h1>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=6000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=600&height=25&lines=My+last+medium+post" alt="Typing SVG" />
-
+### My Last Medium Post : 
 [![Damla Alim Medium](https://github-readme-medium.vercel.app/?username=damlaalim)](https://medium.com/@damlaalim)
