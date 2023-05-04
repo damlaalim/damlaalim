@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a 20-year-old Game Developer from Turkey. <br>
+I am a 20-year-old Game Developer. <br>
 I love coding and playing games! <img src="https://media1.giphy.com/media/nYD66ng26rP1WMmXwx/giphy.gif?cid=ecf05e47dw1pjosndhwqkhdqbfw4g6y68q8c1zld090avtk1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30"> 
 
 <h1 align="center"></h1>
