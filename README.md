@@ -41,3 +41,9 @@ I love coding and playing games! <img src="https://media1.giphy.com/media/nYD66n
 
 ### My Last Medium Post : 
 [![Damla Alim Medium](https://github-readme-medium.vercel.app/?username=damlaalim)](https://medium.com/@damlaalim)
+
+
+<h1 align="center"></h1>
+
+### My Published Games : 
+[Cubix Puzzle](https://damlaalim.itch.io/cubix-puzzle)
