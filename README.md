@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchio&logoColor=white" alt="Itchio Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=damlaalim&style=flat-square&color=blue" alt=""/>
-</div>
 <h1 align="center">
   Hii, I'm Damla!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
