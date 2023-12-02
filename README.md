@@ -17,14 +17,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### 👩🏻‍💻 About Me :
 
 I am a 21-year-old Game Developer. <br>
 I love coding and playing games! <img src="https://media1.giphy.com/media/nYD66ng26rP1WMmXwx/giphy.gif?cid=ecf05e47dw1pjosndhwqkhdqbfw4g6y68q8c1zld090avtk1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30"> 
 
 <h1 align="center"></h1>
 
-### :hammer_and_wrench: Languages and Tools :
+### 🔧 Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/>&nbsp;
