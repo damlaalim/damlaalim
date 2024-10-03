@@ -45,4 +45,4 @@ I love coding and playing games! <img src="https://media1.giphy.com/media/nYD66n
 <h1 align="center"></h1>
 
 ### My Published Games : 
-[Cubix Puzzle](https://play.google.com/store/apps/details?id=com.DDGames.CubixPuzzle)
+[Cubix Puzzle](https://play.google.com/store/apps/details?id=com.OM.CubixPuzzle)
